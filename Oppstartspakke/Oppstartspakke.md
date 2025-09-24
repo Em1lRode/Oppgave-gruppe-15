@@ -1,24 +1,23 @@
 # Oppstartspakke for Erling (Gruppe 15)
 
-Strategi for rekruttering og sammensetning
+### 1. Strategi for rekruttering og sammensetning
 Rekruttering og sammensetning av prosjektgruppen er en avgjørende faktor av planleggingsfasen i et prosjekt. En oppgaverelevant rekruttering vil være helt nødvendig i prosjekter. Individene i prosjektet må selvfølgelig tilfredsstille fagkravene som omhandler prosjektet. Likevel er det viktig for prosjektets sosiale dynamikk at de forskjellige personene klarer å kommunisere, samarbeide og sosialisere seg med hverandre. 
 
+“Mennesker må arbeide sammen, de må kommunisere, de må omgås hverandre i perioder med betydelig stress, de må tilbringe mye tid sammen. Dermed blir andre egenskaper som mennesker tar med seg inn i prosjektet, f.eks. evne til å samarbeide, analytiske evner, kommunikasjonsevner osv. like viktige som de faglige ferdighetene de innehar” (Jacobsen, 2016, s. 32).
 
-“Mennesker må arbeide sammen, de må kommunisere, de må omgås hverandre i perioder med betydelig stress, de må tilbringe mye tid sammen. Dermed blir andre egenskaper som mennesker tar med seg inn i prosjektet, f.eks. evne til å samarbeide, analytiske evner, kommunikasjonsevner osv. like viktige som de faglige ferdighetene de innehar” (Jacobsen, 2016, s. 32). 
 Fire sentrale roller
 For å sikre tilstrekkelig bredde og funksjonalitet i prosjektgruppen, bør bemanningen ta utgangspunkt i fire funksjonelle roller: produksjon, administrasjon, integrasjon og entreprenørskap.
-Produksjon utgjør selve “motoren” i prosjektet. Dette er fagpersonene som har spisskompetanse innenfor prosjektets kjerneområde, og de er ansvarlige for å levere det faglige innholdet.. I et digitalt utviklingsprosjekt som dette vil aktuell spisskompetanse være en ekstern UX-designer og en ekspert på digital sikkerhet samt representanter fra IT-avdelingen og plan - og byggesaksavdelingen.
-Administrasjon ivaretar fremdriften, systemet og kontrollen. Personene i denne rollen sørger for orden, system og forutsigbarhet i arbeidet. Her inngår prosjektlederen, kulturavdelingen og den politiske rådgiveren, som sammen sikrer at prosjektet holder retning og tempo.
-Integrasjon fungerer som limet mellom de ulike faggruppene og organisatoriske enhetene. Aktører i denne rollen har evne til å bygge broer mellom perspektiver, og bidrar til helhetlig forståelse og samarbeid. Brukerrepresentanter og kulturavdelingen er sentrale her, da de kan formidle behov og innsikt på tvers av fagmiljøer.
-Entreprenørskap representerer nytenkning og utfordrer etablerte tankesett. Menneskene i denne rollen stiller kritiske spørsmål, identifiserer muligheter og driver frem innovasjon. Deres evne til å tenke nytt er avgjørende for å sikre at prosjektet ikke bare leverer på det planlagte, men også utvikler seg i takt med endrende behov og rammer. 
+1. Produksjon utgjør selve “motoren” i prosjektet. Dette er fagpersonene som har spisskompetanse innenfor prosjektets kjerneområde, og de er ansvarlige for å levere det faglige innholdet.. I et digitalt utviklingsprosjekt som dette vil aktuell spisskompetanse være en ekstern UX-designer og en ekspert på digital sikkerhet samt representanter fra IT-avdelingen og plan - og byggesaksavdelingen.
+2. Administrasjon ivaretar fremdriften, systemet og kontrollen. Personene i denne rollen sørger for orden, system og forutsigbarhet i arbeidet. Her inngår prosjektlederen, kulturavdelingen og den politiske rådgiveren, som sammen sikrer at prosjektet holder retning og tempo.
+3. Integrasjon fungerer som limet mellom de ulike faggruppene og organisatoriske enhetene. Aktører i denne rollen har evne til å bygge broer mellom perspektiver, og bidrar til helhetlig forståelse og samarbeid. Brukerrepresentanter og kulturavdelingen er sentrale her, da de kan formidle behov og innsikt på tvers av fagmiljøer.
+4. Entreprenørskap representerer nytenkning og utfordrer etablerte tankesett. Menneskene i denne rollen stiller kritiske spørsmål, identifiserer muligheter og driver frem innovasjon. Deres evne til å tenke nytt er avgjørende for å sikre at prosjektet ikke bare leverer på det planlagte, men også utvikler seg i takt med endrende behov og rammer. 
 En prosjektgruppe som dekker alle fire rollene vil ha større sannsynlighet for å lykkes enn en gruppe som kun dekker en eller to.
 
 Tillit og relasjoner
 Mennesker har større tillit til andre mennesker som ligner på dem selv. Tillit er en sentral del av en relasjon. I bemanning av prosjekter bør man derfor nøye tenke igjennom hvordan man balanserer kompetanse og mangfold. Store demografiske og sosiale forskjeller øker sannsynligheten for konflikt, mens store likheter minsker sannsynligheten. “Forskningen er nokså entydig på at sosial og demografisk homogenitet - det at folk ligner hverandre - medvirker positivt til å etablere tidligere tillitsrelasjoner” (Jacobsen, 2016, s. 35).
-
-
 I et utviklingsprosjekt vil det å ha forskjellige fagbakgrunner og ulikt utdannelsesnivå være positivt.
-Det første møtet
+
+### 2. Det første møtet
 Når et prosjekt etableres, er det avgjørende å sikre en god oppstart som legger grunnlaget for både struktur og samarbeid. Prosjektgruppen har sjeldent tid til en lang modningsprosess, og det første møtet får derfor en sentral rolle i å etablere felles forståelse og bygge tillit. Hensikten med møtet er å skape en felles forståelse av rammer og mål, tydeliggjøre roller og forventninger, samt legge til rette for trygghet og relasjoner mellom individene. Det første møtet er en svært viktig del av teambygging.
 Selv om mange omtaler denne delen som “småprat” eller "pseudo-arbeid”, fungerer den som en verdifull arena for deltagerne å bli kjent med hverandre på et mer uformelt nivå. Gjennom slike samtaler får man innsikt i hverandres tidligere erfaringer, perspektiver og praksis, noe som kan bidra til å styrke samarbeidet. 
 Jacobsen understreker betydningen av førsteinntrykk i denne fasen:
@@ -31,11 +30,23 @@ Prosjektets rammer
 Samtidig er det viktig å være bevisst på at man i denne fasen først og fremst etablerer de formelle rammene for det som skal skje videre i prosjektet. "Samtidig må man være klar over at man i denne fasen i hovedsak legger de formelle rammene rundt det som senere skal finne sted. Å drøfte fremdrift, roller, ansvar og oppgaver betyr ikke nødvendigvis at alle oppfatter og fortolker dette likt". En felles forståelse, eller en felles prosjektkultur, er noe som utvikles over tid. "Gode rammer kan øke sannsynligheten for at man får en prosjektgruppe som utvikler seg til et godt team, men det vil aldri være noen garanti."
 Til slutt må det understrekes at "gode oppstartsmøter gir også rom for etablering av de første sosiale relasjonene, noe som kan lette utviklingen av et godt fungerende team i senere faser."
 
+### 3. Rammer for relasjonelle kontrakter
+
+
+### 4. Proaktive mekanismer for konflikthåndtering
+Forslag til konkrete ordninger og prosedyrer for å identifisere, drøfte og avgjøre uenigheter tidlig i prosjektet, for å unngå eskalering.
+
+Et prosjekt mellom flere samarbeidspartnere, dersom det ikke er tidlig åpenbar synergi, vil i mange tilfeller skape konflikter. Ett forslag til å hindre tidlig konflikt er å dele oppgaven på en klar måte, og deretter gi hvert av medlemmene i samarbeidsgruppen sitt spesifikke arbeidsmål. Dette vil kunne minimalisere feiltagelse i hva medlemmene skal jobbe med, og vil dermed unngå konflikter innenfor disse rammeverkene.
+
+Konflikter i seg selv er dessverre en normal og veldig vanlig når en bedrift skal samarbeide rundt et prosjekt, enten om det er konflikter innenfor idéer, konflikter innenfor arbeidsoppgaver eller andre tematiske konflikttyper. Uansett hvilke typer konflikter oppstår, er det svært viktig å håndtere dem før de eskalerer videre. I denne delen av oppgaven vil vi identifisere forslag til hvordan vi kan bruke konflikthåndteringsmekanismer for å unngå eskalering.
+
+Dersom en konflikt i gruppen eller mellom individer i gruppen skulle manifisere seg, gjelder det å integrere de rettmessige konfliktshånderingsstrategiene - basert på hvilken løsning som fungerer best for hver enkelt individ eller gruppe. En grunnleggende type løsningsmekanisme vil være å finne årsaken til konflikten, analysere hva og hvilke årsaker den oppstår fra, og dermed finne en løsning som fungerer for alle partene. Dersom partene ikke finner en felles løsning, kan de derimot havne i et kompromiss, altså at ingen av de konflikterende partene ender opp med det de ønsker i total helhet, men heller noe i mellom. Dette kan være en kombinasjon av individuelle ønsker, samtidig som de utelater andre ønsker, Innenfor denne mekanismen vil det være viktig med rettferdighet mellom alle parter. (Jakobsen, 2016, s. 67)
+
+I grunnleggende hovedsak, ligger prinsippet bak proaktive håndtering rundt to ulike strategier. Den første strategien retter seg mot åpen kommunikasjon i gruppen spesifikt rettet mot hvilke konflikter som kan oppstå, basert på selve oppgaven. Her vil gruppemedlemmene kunne diskutere hvilke deler av prosjektet vil kunne skape konflikter og/eller uklare arbeidsoppgaver. Deretter vil en løsning kunne drøftes, med fokus på en direkte eller indirekte løsning av disse fremtidige konfliktene (Jakobsen, 2016, s.68). Den andre strategien legger mindre vekt på en helhetlig drøfting av gruppens diskusjoner, og er mer rettet mot individuelle synspunkter. I hovedsak gjelder det å la hver av medlemmene komme med sine egne ønskelige oppgaver, ansvar og løsninger innenfor gruppesynergien - samtidig som at individets trivsel blir satt høyt (Jakobsen, 2016, s. 69).
 
 
 
-
-## Håndtering av tidspress og "planleggingsfellen"
+### 5. Håndtering av tidspress og "planleggingsfellen"
 En strukturert plan vil bli nyttig når det kommer til å motvirke det sterke handlingspresset i tidlig fase. Det er viktig å være klar over hvor lang tid man har til prosjektet. Å undervurdere tidsbruken og kompleksiteten til prosjektet kan fort bli farlig. Uventede problemer og situasjoner kan oppstå. Derfor er det også viktig å ikke bare bygge en strukturert plan, men også en fleksibel plan. Å bygge en buffer i tidsplanen kan være en god løsning til dette. Det kan for eksempel være å legge til en 10-15% buffer på ekstra tid på prosjektet. Uten en buffer kan tidpresset øke, og man faller ned i planleggingsfellen. Planleggingsfeller handler om at man blant annet undervurderer tidsfristen til prosjektet. 
 
 
@@ -46,11 +57,7 @@ I planleggingsfaser kan det også være lurt å sette målsettinger gjennom SMAR
 
 Ikke gå for raskt i gang med utvikling før målet og rollene er tydelig definert. Oppstartsmøtet bør brukes til å avklare forventninger og arbeidsflyt. Ved å lage en god plan, unngår Erling at teamet ikke brenner seg ut. Når det kommer til teamet, burde det være klare rutiner for rapportering. Slik at når forsinkelser oppstår, oppdages dette tidlig. En god strategi for å passe på at det blir fremdrift og felles forståelse er ved å utvikle tidlige prototyper. Dette sikrer at alle i prosjektet forstår målet og hensikten blir mer konkret, prototyper gjør det mulig med brukertesting. Brukertesting tidlig i prosjektet kan bidra til redusert ressursbruk og konkrete mål senere i fasen.En god strategi for å passe på at det blir fremdrift og felles forståelse er ved å utvikle tidlige prototyper. Dette sikrer at alle i prosjektet forstår målet og hensikten blir mer konkret, prototyper gjør det mulig med brukertesting. Brukertesting tidlig i prosjektet kan bidra til redusert ressursbruk og konkrete mål senere i fasen.
 
-
-
-
-
-## Sikring av god kommunikasjon:
+### 6. Sikring av god kommunikasjon:
 Tett og åpen kommunikasjon skaper et godt miljø innad i teamet. Effekten med dette er at blant annet kunnskap blir bedre og raskere spredd. “I tillegg blir det en nedbygging av stereotypiske oppfatninger av andre, og dermed å legge et grunnlag for en åpen kommunikasjon.”, (D.I.Jakobsen, 2016, s.82). For å sikre god kommunikasjon anbefaler vi derfor å bruke faste kanaler som Teams. Her kan det gis informasjon, og formelle ideer. Her kan det også etableres regler for hva som brukes hvor. Dette kan for eksempel være at ingen beslutninger tas andre steder enn de planlagte plattformene.
 
 Det å møtes ukentlig kan være lurt sånn at folkene i prosjektet kan holde seg oppdatert på hvordan de ligger an i prosjektet. Dette kan for eksempel være fysiske møter med presentasjoner om status på prosjektet. Dersom noen ikke får være med på disse møtene, burde det skrives referater og dokumentere det som blir sagt/fortalt på møtet. Faren med å ha for store mellomrom mellom møtene kan være at folk faller av, eller misforståelser, oppstår. Det er viktig at dere finner et felles språk som dere kan kommunisere på. Snakker majoriteten engelsk, kan det være lurt at all felles informasjon går over engelsk. Informasjonen og beslutninger dokumenteres, spesielt når man er under tidspress, sånn at man kan gå tilbake og hente dette om det trengs.
